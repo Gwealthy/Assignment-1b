@@ -1,0 +1,35 @@
+body {
+  background: white;
+  font-family: Verdana;
+ 
+}
+firstdiv{
+  float: left;
+    margin: 30pt;
+    border-style: none;
+    text-align: center;
+
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+section{
+  text-align: center;
+
+  vertical-align: inherit;
+}
+table{
+  max-width: 1536px;
+    text-align: justify;
+    margin: 0px auto;
+}
+p{
+  font-family: Verdana;
+}
+fourthdiv{
+  text-align: center;
+}
